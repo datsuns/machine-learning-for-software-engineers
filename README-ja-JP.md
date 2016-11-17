@@ -27,9 +27,9 @@
 
 ---
 
-## Table of Contents
+## 目次
 
-- [What is it?](#what-is-it)
+- [どんな文章か？](#どんな文章か？)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Follow me](#follow-me)
