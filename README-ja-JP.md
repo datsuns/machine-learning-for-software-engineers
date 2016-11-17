@@ -1,4 +1,4 @@
-# Top-down learning path: Machine Learning for Software Engineers
+# トップダウンの学習パス: ソフトウェアエンジニアの為の機械学習
 
 <p align="center">
   <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">
@@ -12,11 +12,11 @@
   </a>
 </p>
 
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university).
+[Google Interview University](https://github.com/jwasham/google-interview-university)に触発されて作成した。.
 
-Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
+他言語への翻訳: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
 
-## What is it?
+## どんな文章か
 
 This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer.
 
