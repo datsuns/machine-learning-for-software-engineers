@@ -29,7 +29,7 @@
 
 ## 目次
 
-- [どんな文章か？](#どんな文章か？)
+- [どんな文章か？](#どんな文章か)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Follow me](#follow-me)
