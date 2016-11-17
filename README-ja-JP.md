@@ -18,11 +18,15 @@
 
 ## どんな文章か
 
-これは(独学, CSほどではない)モバイルエンジニアから機械学習エンジニアになるため私が立てた数ヶ月間の学習プランです
+> This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer.
+これは(独学, CSほどではない)モバイルエンジニアから機械学習エンジニアになるため私が立てた数ヶ月間の学習プランです。
 
-本文章のゴールは、機械学習の初学者に対して数学を抽象化しつつハンズオンで機械学習を学ぶためのアプローチを発見することです
+> My main goal was to find an approach to studying Machine Learning that is mainly hands-on and abstracts most of the Math for the beginner. 
+> This approach is unconventional because it’s the top-down and results-first approach designed for software engineers.
+本文章のゴールは、機械学習の初学者に対して数学を抽象化しつつハンズオンで機械学習を学ぶためのアプローチを発見することです。
 このアプローチはソフトウェアエンジニア向けにトップダウンで結論優先なアプローチであるため、型破りかもしれません。
 
+> Please, feel free to make any contributions you feel will make it better.
 どうぞこの情報を役立ててください。
 
 ---
@@ -30,7 +34,7 @@
 ## 目次
 
 - [どんな文章か？](#どんな文章か)
-- [Why use it?](#why-use-it)
+- [なぜ利用するのか？](#なぜ利用するのか)
 - [How to use it](#how-to-use-it)
 - [Follow me](#follow-me)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
@@ -60,19 +64,26 @@
 
 ---
 
-## Why use it?
+## なぜ利用するのか？
 
-I'm following this plan to prepare for my near-future job: Machine learning engineer. I've been building native mobile applications (Android/iOS/Blackberry) since 2011. I have a Software Engineering degree, not a Computer Science degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university.
-Think about my interest in machine learning:
+> I'm following this plan to prepare for my near-future job: Machine learning engineer. I've been building native mobile applications (Android/iOS/Blackberry) since 2011. I have a Software Engineering degree, not a Computer Science degree. I have an itty-bitty amount of basic knowledge about: Calculus, Linear Algebra, Discrete Mathematics, Probability & Statistics from university.
+> Think about my interest in machine learning:
+私は近い将来機械学習エンジニアとして働きたいと考え、その準備としてこのプランを準備しました。私は2011年以来Android/iOS/Blackberryを対象にしたモバイルアプリケーションを開発してきました。私はソフトウェアエンジニアですが、コンピュータ科学者の肩書きはありません。私は大学で微積分、線形代数、離散数学、確率統計を学び、基礎知識として身に着けています。
+私の機械学習への興味はおおむね以下のとおりです。
 - [Can I learn and get a job in Machine Learning without studying CS Master and PhD?](https://www.quora.com/Can-I-learn-and-get-a-job-in-Machine-Learning-without-studying-CS-Master-and-PhD)
-    - You can, but it is far more difficult than when I got into the field.
+>   - You can, but it is far more difficult than when I got into the field.
+    - おそらく可能でしょう。ただしその分野に飛び込んでいくのはとても難しそうです。
 - [How do I get a job in Machine Learning as a software programmer who self-studies Machine Learning, but  never has a chance to use it at work?](https://www.quora.com/How-do-I-get-a-job-in-Machine-Learning-as-a-software-programmer-who-self-studies-Machine-Learning-but-never-has-a-chance-to-use-it-at-work)
-    - I'm hiring machine learning experts for my team and your MOOC will not get you the job (there is better news below). In fact, many people with a master's in machine learning will not get the job because they (and most who have taken MOOCs) do not have a deep understanding that will help me solve my problems
+>   - I'm hiring machine learning experts for my team and your MOOC will not get you the job (there is better news below). In fact, many people with a master's in machine learning will not get the job because they (and most who have taken MOOCs) do not have a deep understanding that will help me solve my problems
+    - 私はチームに機械学習のエキスパートを雇っています。また、あなたのMOOCでは職は得られないでしょう。(下記に良い情報があります)。実際、機械学習の博士号を持っている人でも、深い理解を持っていない(かつMOOCsを取得していない)と職を得られておらず、その事は私の問題の解決の手助けになりそうです。
 - [What skills are needed for machine learning jobs?](http://programmers.stackexchange.com/questions/79476/what-skills-are-needed-for-machine-learning-jobs)
-    - First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub-specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook.
-    - Statistics, Probability, distributed computing, and Statistics.
+>   - First, you need to have a decent CS/Math background. ML is an advanced topic so most textbooks assume that you have that background. Second, machine learning is a very general topic with many sub-specialties requiring unique skills. You may want to browse the curriculum of an MS program in Machine Learning to see the course, curriculum and textbook.
+>   - Statistics, Probability, distributed computing, and Statistics.
+    - まず、CS/数学 についての正しい基礎知識が必要です。機械学習は先進的な話題なので、機械学習の書籍は既に基礎知識があることを前提としている場合が多いです。次に、機械学習は多くの特別な知識を基にした広く抽象的な議論です。コースやカリキュラム、書籍を知るためにMSの機械学習カリキュラムを眺めたくなるかもしれません
+    - 統計、確率、分散コンピューティング、そして統計。
 
-I find myself in times of trouble.
+> I find myself in times of trouble.
+
 
 AFAIK, [There are two sides to machine learning](http://machinelearningmastery.com/programmers-can-get-into-machine-learning/):
 - Practical Machine Learning: This is about querying databases, cleaning data, writing scripts to transform data and gluing algorithm and libraries together and writing custom code to squeeze reliable answers from data to satisfy difficult and ill-defined questions. It’s the mess of reality.
